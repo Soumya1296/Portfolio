@@ -376,7 +376,7 @@ section .title::after{
 
 /* teams section styling */
 .teams .title::after{
-    content: "Front-End Development";
+    content: "Developing";
 }
 .teams .carousel .card{
     background: #222;
